@@ -1,0 +1,14 @@
+{
+  "name": "vlsm-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VLSM (variable length subnet mask) calculator, Jekyll site on GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}

@@ -1,0 +1,13 @@
+title: VLSM Calculator
+description: Variable length subnet mask calculator
+markdown: kramdown
+
+# Only the Jekyll site is published. Source and build tooling stay in the repo.
+exclude:
+  - src
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - README.md
+  - .gitignore
